@@ -1,0 +1,361 @@
+# depslib dependency file v1.0
+1384625823 source:d:\thesis\program\thesis\main.cpp
+	<iostream>
+	<vector>
+
+1385668309 source:d:\google drive\p_thesis\thesis\program\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<tgmath.h>
+	"MyPSO.h"
+
+1385531780 source:d:\google drive\p_thesis\thesis\program\thesis\fitnessvalue.cpp
+	<tgmath.h>
+	"MyPSO.h"
+
+1385427071 d:\google drive\p_thesis\thesis\program\thesis\publicvalues.cpp
+
+1385498036 d:\google drive\p_thesis\thesis\program\thesis\publicvalues.h
+
+1385497530 d:\google drive\p_thesis\thesis\program\thesis\process.cpp
+	"PublicValues.h"
+	"MyPSO.h"
+
+1385495972 d:\google drive\p_thesis\thesis\program\thesis\randomvalues.cpp
+	"PublicValues.h"
+	<cstdlib>
+	<ctime>
+
+1385497007 d:\google drive\p_thesis\thesis\program\thesis\fitnessvalue.cpp
+	<tgmath.h>
+	"PublicValues.h"
+	"MyPSO.h"
+
+1385496386 d:\google drive\p_thesis\thesis\program\thesis\psotraining.cpp
+	"PublicValues.h"
+	<iostream>
+
+1385531306 source:d:\google drive\p_thesis\thesis\program\thesis\process.cpp
+	"MyPSO.h"
+
+1385684635 d:\google drive\p_thesis\thesis\program\thesis\mypso.h
+	<iostream>
+
+1385679869 source:d:\google drive\p_thesis\thesis\program\thesis\psotraining.cpp
+	<iostream>
+	<tgmath.h>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+
+1385679751 source:d:\google drive\p_thesis\thesis\program\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1385531256 source:d:\google drive\p_thesis\thesis\program\thesis\publicvalues.cpp
+
+1385677488 source:d:\google drive\p_thesis\thesis\program\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1385684602 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 c:\users\nitish\google drive\p_thesis\thesis\program\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1394086226 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385531256 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\publicvalues.cpp
+
+1385679751 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1394097564 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1394087208 c:\users\nitish\google drive\p_thesis\thesis\program\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1394088321 source:c:\users\nitish\google drive\p_thesis\thesis\program\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1385684602 source:e:\study\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 e:\study\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1388787240 e:\study\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1388787121 source:e:\study\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385679751 source:e:\study\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1388732207 source:e:\study\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1388787121 source:e:\study\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385684602 source:c:\users\nitish\desktop\updated_6_3_thesis\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 c:\users\nitish\desktop\updated_6_3_thesis\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1394087208 c:\users\nitish\desktop\updated_6_3_thesis\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1394110497 source:c:\users\nitish\desktop\updated_6_3_thesis\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1394127721 source:c:\users\nitish\desktop\updated_6_3_thesis\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1394086226 source:c:\users\nitish\desktop\updated_6_3_thesis\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385679751 source:c:\users\nitish\desktop\updated_6_3_thesis\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1385684602 source:c:\users\nitish\desktop\editing for results_thesis\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 c:\users\nitish\desktop\editing for results_thesis\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1394432452 c:\users\nitish\desktop\editing for results_thesis\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1385679751 source:c:\users\nitish\desktop\editing for results_thesis\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1394562403 source:c:\users\nitish\desktop\editing for results_thesis\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1394561386 source:c:\users\nitish\desktop\editing for results_thesis\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
+1394562468 source:c:\users\nitish\desktop\editing for results_thesis\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385684602 source:c:\users\nitish\desktop\editable\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 c:\users\nitish\desktop\editable\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1394432452 c:\users\nitish\desktop\editable\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1394287318 source:c:\users\nitish\desktop\editable\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385679751 source:c:\users\nitish\desktop\editable\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1394430585 source:c:\users\nitish\desktop\editable\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1394431011 source:c:\users\nitish\desktop\editable\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1385684602 source:f:\thesis_sma_ema_5\thesis\aneuralnetwork.cpp
+	"MyPSO.h"
+
+1388787121 f:\thesis_sma_ema_5\thesis\mypso.h
+	<iostream>
+	"dataReader.h"
+
+1394432452 f:\thesis_sma_ema_5\thesis\datareader.h
+	<vector>
+	<string>
+	<climits>
+	<fstream>
+
+1411221691 source:f:\thesis_sma_ema_5\thesis\datareader.cpp
+	"dataReader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstring>
+	<climits>
+	<algorithm>
+
+1385679751 source:f:\thesis_sma_ema_5\thesis\randomvalues.cpp
+	<cstdlib>
+	"MyPSO.h"
+
+1411222574 source:f:\thesis_sma_ema_5\thesis\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<tgmath.h>
+	"MyPSO.h"
+	"dataReader.h"
+
+1411222641 source:f:\thesis_sma_ema_5\thesis\psotraining.cpp
+	<iostream>
+	<iomanip>
+	<tgmath.h>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	"MyPSO.h"
+	"dataReader.h"
+
